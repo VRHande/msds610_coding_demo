@@ -29,3 +29,12 @@ Keys play an essential role in the relational database. It is used to uniquely i
 <img src="screenshots/8.png" alt="Alt text" title="Optional title">
 
 <img src="screenshots/9.png" alt="Alt text" title="Optional title">
+
+
+**CANDIDATE KEY** in SQL is a set of attributes that uniquely identify tuples in a table. Candidate Key is a super key with no repeated attributes. The Primary key should be selected from the candidate keys. Every table must have at least a single candidate key. A table can have multiple candidate keys but only a single primary key.
+
+
+**COMPOSITE KEY** is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individually uniqueness is not guaranteed. Hence, they are combined to uniquely identify records in a table.
+
+<img src="screenshots/11.png" alt="Alt text" title="Optional title">
+
